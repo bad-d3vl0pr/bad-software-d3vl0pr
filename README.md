@@ -9,9 +9,7 @@ Learning programming is like learning to do parkour, you are not going
 to learn how to do parkour by reading a book, you have to stamp yourself
 on the floor.
 
-## [Challenges](./challenges.md)
-
-## Have in mind
+## Keep in mind
 
 1. Understand the problem
   * Do your own research, it's an incredibly useful skill which can be
